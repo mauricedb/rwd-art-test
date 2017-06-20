@@ -1308,14 +1308,9 @@ function filterArrToObject(items) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return environment; });
-// The file contents for the current environment will overwrite these during build.
-// The build system defaults to the dev environment which uses `environment.ts`, but if you do
-// `ng build --env=prod` then `environment.prod.ts` will be used instead.
-// The list of which env maps to which file can be found in `.angular-cli.json`.
-// The file contents for the current environment will overwrite these during build.
 var environment = {
-    production: false,
-    clientId: "BX01gag79AOiUiIE54RPimlDP3Au6PoQUpYFJUy3"
+    production: true,
+    clientId: "fET0BNGfZ7cE6n2NegNJQdJ0N4pguUZvw4THtTdN"
 };
 //# sourceMappingURL=environment.js.map
 
